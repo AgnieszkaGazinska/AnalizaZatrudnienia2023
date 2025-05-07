@@ -1,0 +1,171 @@
+Kod;nazwa;grupy;Wartość i precyzja;Rok;wartosc;Jednostka miary;Atrybut
+200000;DOLNOŚLĄSKIE;ogółem;wartość liczbowa;2023;56.5;%;
+200000;DOLNOŚLĄSKIE;15-24;wartość liczbowa;2023;33.7;%;
+200000;DOLNOŚLĄSKIE;25-54;wartość liczbowa;2023;86;%;
+200000;DOLNOŚLĄSKIE;55-64;wartość liczbowa;2023;55.1;%;
+200000;DOLNOŚLĄSKIE;65-89;wartość liczbowa;2023;6;%;
+264000;powiat Wrocław;ogółem;wartość liczbowa;2023;63.7;%;
+264000;powiat Wrocław;15-24;wartość liczbowa;2023;39.2;%;
+264000;powiat Wrocław;25-54;wartość liczbowa;2023;89.8;%;
+264000;powiat Wrocław;55-64;wartość liczbowa;2023;67.2;%;
+264000;powiat Wrocław;65-89;wartość liczbowa;2023;11.2;%;
+400000;KUJAWSKO-POMORSKIE;ogółem;wartość liczbowa;2023;54.6;%;
+400000;KUJAWSKO-POMORSKIE;15-24;wartość liczbowa;2023;22;%;
+400000;KUJAWSKO-POMORSKIE;25-54;wartość liczbowa;2023;85.3;%;
+400000;KUJAWSKO-POMORSKIE;55-64;wartość liczbowa;2023;55.3;%;
+400000;KUJAWSKO-POMORSKIE;65-89;wartość liczbowa;2023;4.6;%;
+461000;powiat Bydgoszcz;ogółem;wartość liczbowa;2023;58.9;%;
+461000;powiat Bydgoszcz;15-24;wartość liczbowa;2023;0;%;x
+461000;powiat Bydgoszcz;25-54;wartość liczbowa;2023;91.1;%;
+461000;powiat Bydgoszcz;55-64;wartość liczbowa;2023;65;%;
+461000;powiat Bydgoszcz;65-89;wartość liczbowa;2023;0;%;x
+463000;powiat Toruń;ogółem;wartość liczbowa;2023;59.1;%;
+463000;powiat Toruń;15-24;wartość liczbowa;2023;0;%;x
+463000;powiat Toruń;25-54;wartość liczbowa;2023;92.6;%;
+463000;powiat Toruń;55-64;wartość liczbowa;2023;59.1;%;
+463000;powiat Toruń;65-89;wartość liczbowa;2023;0;%;x
+600000;LUBELSKIE;ogółem;wartość liczbowa;2023;54.3;%;
+600000;LUBELSKIE;15-24;wartość liczbowa;2023;26.9;%;
+600000;LUBELSKIE;25-54;wartość liczbowa;2023;84.2;%;
+600000;LUBELSKIE;55-64;wartość liczbowa;2023;58.5;%;
+600000;LUBELSKIE;65-89;wartość liczbowa;2023;4.7;%;
+663000;powiat Lublin;ogółem;wartość liczbowa;2023;54.2;%;
+663000;powiat Lublin;15-24;wartość liczbowa;2023;26.3;%;
+663000;powiat Lublin;25-54;wartość liczbowa;2023;86.7;%;
+663000;powiat Lublin;55-64;wartość liczbowa;2023;59.5;%;
+663000;powiat Lublin;65-89;wartość liczbowa;2023;0;%;x
+800000;LUBUSKIE;ogółem;wartość liczbowa;2023;56.1;%;
+800000;LUBUSKIE;15-24;wartość liczbowa;2023;25;%;
+800000;LUBUSKIE;25-54;wartość liczbowa;2023;85.6;%;
+800000;LUBUSKIE;55-64;wartość liczbowa;2023;56.5;%;
+800000;LUBUSKIE;65-89;wartość liczbowa;2023;0;%;x
+861000;powiat Gorzów Wielkopolski;ogółem;wartość liczbowa;2023;58.7;%;
+861000;powiat Gorzów Wielkopolski;15-24;wartość liczbowa;2023;0;%;x
+861000;powiat Gorzów Wielkopolski;25-54;wartość liczbowa;2023;93;%;
+861000;powiat Gorzów Wielkopolski;55-64;wartość liczbowa;2023;0;%;x
+861000;powiat Gorzów Wielkopolski;65-89;wartość liczbowa;2023;0;%;x
+862000;powiat Zielona Góra;ogółem;wartość liczbowa;2023;58;%;
+862000;powiat Zielona Góra;15-24;wartość liczbowa;2023;0;%;x
+862000;powiat Zielona Góra;25-54;wartość liczbowa;2023;88.5;%;
+862000;powiat Zielona Góra;55-64;wartość liczbowa;2023;66.7;%;
+862000;powiat Zielona Góra;65-89;wartość liczbowa;2023;0;%;x
+1000000;ŁÓDZKIE;ogółem;wartość liczbowa;2023;56.4;%;
+1000000;ŁÓDZKIE;15-24;wartość liczbowa;2023;31.6;%;
+1000000;ŁÓDZKIE;25-54;wartość liczbowa;2023;85.4;%;
+1000000;ŁÓDZKIE;55-64;wartość liczbowa;2023;56.6;%;
+1000000;ŁÓDZKIE;65-89;wartość liczbowa;2023;5.9;%;
+1061000;powiat Łódź;ogółem;wartość liczbowa;2023;55.6;%;
+1061000;powiat Łódź;15-24;wartość liczbowa;2023;41.7;%;
+1061000;powiat Łódź;25-54;wartość liczbowa;2023;89.8;%;
+1061000;powiat Łódź;55-64;wartość liczbowa;2023;61.8;%;
+1061000;powiat Łódź;65-89;wartość liczbowa;2023;8;%;
+1200000;MAŁOPOLSKIE;ogółem;wartość liczbowa;2023;52.2;%;
+1200000;MAŁOPOLSKIE;15-24;wartość liczbowa;2023;25.1;%;
+1200000;MAŁOPOLSKIE;25-54;wartość liczbowa;2023;81.1;%;
+1200000;MAŁOPOLSKIE;55-64;wartość liczbowa;2023;50.5;%;
+1200000;MAŁOPOLSKIE;65-89;wartość liczbowa;2023;5.1;%;
+1261000;powiat Kraków;ogółem;wartość liczbowa;2023;67.3;%;
+1261000;powiat Kraków;15-24;wartość liczbowa;2023;33.3;%;
+1261000;powiat Kraków;25-54;wartość liczbowa;2023;92.3;%;
+1261000;powiat Kraków;55-64;wartość liczbowa;2023;67.9;%;
+1261000;powiat Kraków;65-89;wartość liczbowa;2023;6.8;%;
+1400000;MAZOWIECKIE;ogółem;wartość liczbowa;2023;59.2;%;
+1400000;MAZOWIECKIE;15-24;wartość liczbowa;2023;28.6;%;
+1400000;MAZOWIECKIE;25-54;wartość liczbowa;2023;88.1;%;
+1400000;MAZOWIECKIE;55-64;wartość liczbowa;2023;64.1;%;
+1400000;MAZOWIECKIE;65-89;wartość liczbowa;2023;6.3;%;
+1465000;powiat Warszawa;ogółem;wartość liczbowa;2023;67.1;%;
+1465000;powiat Warszawa;15-24;wartość liczbowa;2023;32.1;%;
+1465000;powiat Warszawa;25-54;wartość liczbowa;2023;93.1;%;
+1465000;powiat Warszawa;55-64;wartość liczbowa;2023;72.8;%;
+1465000;powiat Warszawa;65-89;wartość liczbowa;2023;12;%;
+1600000;OPOLSKIE;ogółem;wartość liczbowa;2023;55;%;
+1600000;OPOLSKIE;15-24;wartość liczbowa;2023;32.4;%;
+1600000;OPOLSKIE;25-54;wartość liczbowa;2023;84.5;%;
+1600000;OPOLSKIE;55-64;wartość liczbowa;2023;54.7;%;
+1600000;OPOLSKIE;65-89;wartość liczbowa;2023;0;%;x
+1661000;powiat Opole;ogółem;wartość liczbowa;2023;60.9;%;
+1661000;powiat Opole;15-24;wartość liczbowa;2023;0;%;x
+1661000;powiat Opole;25-54;wartość liczbowa;2023;92.9;%;
+1661000;powiat Opole;55-64;wartość liczbowa;2023;66.7;%;
+1661000;powiat Opole;65-89;wartość liczbowa;2023;0;%;x
+1800000;PODKARPACKIE;ogółem;wartość liczbowa;2023;50.1;%;
+1800000;PODKARPACKIE;15-24;wartość liczbowa;2023;23.3;%;
+1800000;PODKARPACKIE;25-54;wartość liczbowa;2023;79.3;%;
+1800000;PODKARPACKIE;55-64;wartość liczbowa;2023;52.5;%;
+1800000;PODKARPACKIE;65-89;wartość liczbowa;2023;0;%;x
+1863000;powiat Rzeszów;ogółem;wartość liczbowa;2023;61.2;%;
+1863000;powiat Rzeszów;15-24;wartość liczbowa;2023;0;%;x
+1863000;powiat Rzeszów;25-54;wartość liczbowa;2023;92.5;%;
+1863000;powiat Rzeszów;55-64;wartość liczbowa;2023;60;%;
+1863000;powiat Rzeszów;65-89;wartość liczbowa;2023;0;%;x
+2000000;PODLASKIE;ogółem;wartość liczbowa;2023;56.6;%;
+2000000;PODLASKIE;15-24;wartość liczbowa;2023;25;%;
+2000000;PODLASKIE;25-54;wartość liczbowa;2023;87.1;%;
+2000000;PODLASKIE;55-64;wartość liczbowa;2023;63.1;%;
+2000000;PODLASKIE;65-89;wartość liczbowa;2023;0;%;x
+2061000;powiat Białystok;ogółem;wartość liczbowa;2023;58.2;%;
+2061000;powiat Białystok;15-24;wartość liczbowa;2023;0;%;x
+2061000;powiat Białystok;25-54;wartość liczbowa;2023;88.5;%;
+2061000;powiat Białystok;55-64;wartość liczbowa;2023;67.7;%;
+2061000;powiat Białystok;65-89;wartość liczbowa;2023;0;%;x
+2200000;POMORSKIE;ogółem;wartość liczbowa;2023;58;%;
+2200000;POMORSKIE;15-24;wartość liczbowa;2023;22.9;%;
+2200000;POMORSKIE;25-54;wartość liczbowa;2023;87.3;%;
+2200000;POMORSKIE;55-64;wartość liczbowa;2023;58.8;%;
+2200000;POMORSKIE;65-89;wartość liczbowa;2023;6.5;%;
+2261000;powiat Gdańsk;ogółem;wartość liczbowa;2023;64.3;%;
+2261000;powiat Gdańsk;15-24;wartość liczbowa;2023;36.2;%;
+2261000;powiat Gdańsk;25-54;wartość liczbowa;2023;92.4;%;
+2261000;powiat Gdańsk;55-64;wartość liczbowa;2023;67.5;%;
+2261000;powiat Gdańsk;65-89;wartość liczbowa;2023;0;%;x
+2400000;ŚLĄSKIE;ogółem;wartość liczbowa;2023;55.2;%;
+2400000;ŚLĄSKIE;15-24;wartość liczbowa;2023;32;%;
+2400000;ŚLĄSKIE;25-54;wartość liczbowa;2023;85.5;%;
+2400000;ŚLĄSKIE;55-64;wartość liczbowa;2023;49.7;%;
+2400000;ŚLĄSKIE;65-89;wartość liczbowa;2023;5.7;%;
+2469000;powiat Katowice;ogółem;wartość liczbowa;2023;56;%;
+2469000;powiat Katowice;15-24;wartość liczbowa;2023;0;%;x
+2469000;powiat Katowice;25-54;wartość liczbowa;2023;89.7;%;
+2469000;powiat Katowice;55-64;wartość liczbowa;2023;48.7;%;
+2469000;powiat Katowice;65-89;wartość liczbowa;2023;0;%;x
+2600000;ŚWIĘTOKRZYSKIE;ogółem;wartość liczbowa;2023;52.9;%;
+2600000;ŚWIĘTOKRZYSKIE;15-24;wartość liczbowa;2023;22.6;%;
+2600000;ŚWIĘTOKRZYSKIE;25-54;wartość liczbowa;2023;83.4;%;
+2600000;ŚWIĘTOKRZYSKIE;55-64;wartość liczbowa;2023;60.5;%;
+2600000;ŚWIĘTOKRZYSKIE;65-89;wartość liczbowa;2023;5.5;%;
+2661000;powiat Kielce;ogółem;wartość liczbowa;2023;54.8;%;
+2661000;powiat Kielce;15-24;wartość liczbowa;2023;0;%;x
+2661000;powiat Kielce;25-54;wartość liczbowa;2023;87.8;%;
+2661000;powiat Kielce;55-64;wartość liczbowa;2023;70;%;
+2661000;powiat Kielce;65-89;wartość liczbowa;2023;0;%;x
+2800000;WARMIŃSKO-MAZURSKIE;ogółem;wartość liczbowa;2023;51.6;%;
+2800000;WARMIŃSKO-MAZURSKIE;15-24;wartość liczbowa;2023;24.8;%;
+2800000;WARMIŃSKO-MAZURSKIE;25-54;wartość liczbowa;2023;81.6;%;
+2800000;WARMIŃSKO-MAZURSKIE;55-64;wartość liczbowa;2023;54.8;%;
+2800000;WARMIŃSKO-MAZURSKIE;65-89;wartość liczbowa;2023;0;%;x
+2862000;powiat Olsztyn;ogółem;wartość liczbowa;2023;66.5;%;
+2862000;powiat Olsztyn;15-24;wartość liczbowa;2023;0;%;x
+2862000;powiat Olsztyn;25-54;wartość liczbowa;2023;92.5;%;
+2862000;powiat Olsztyn;55-64;wartość liczbowa;2023;65;%;
+2862000;powiat Olsztyn;65-89;wartość liczbowa;2023;0;%;x
+3000000;WIELKOPOLSKIE;ogółem;wartość liczbowa;2023;57.9;%;
+3000000;WIELKOPOLSKIE;15-24;wartość liczbowa;2023;34.4;%;
+3000000;WIELKOPOLSKIE;25-54;wartość liczbowa;2023;85.8;%;
+3000000;WIELKOPOLSKIE;55-64;wartość liczbowa;2023;59.9;%;
+3000000;WIELKOPOLSKIE;65-89;wartość liczbowa;2023;4.8;%;
+3064000;powiat Poznań;ogółem;wartość liczbowa;2023;64;%;
+3064000;powiat Poznań;15-24;wartość liczbowa;2023;25;%;
+3064000;powiat Poznań;25-54;wartość liczbowa;2023;93.1;%;
+3064000;powiat Poznań;55-64;wartość liczbowa;2023;68;%;
+3064000;powiat Poznań;65-89;wartość liczbowa;2023;10.1;%;
+3200000;ZACHODNIOPOMORSKIE;ogółem;wartość liczbowa;2023;53.8;%;
+3200000;ZACHODNIOPOMORSKIE;15-24;wartość liczbowa;2023;31;%;
+3200000;ZACHODNIOPOMORSKIE;25-54;wartość liczbowa;2023;84.5;%;
+3200000;ZACHODNIOPOMORSKIE;55-64;wartość liczbowa;2023;53.2;%;
+3200000;ZACHODNIOPOMORSKIE;65-89;wartość liczbowa;2023;7.3;%;
+3262000;powiat Szczecin;ogółem;wartość liczbowa;2023;61.9;%;
+3262000;powiat Szczecin;15-24;wartość liczbowa;2023;23.9;%;
+3262000;powiat Szczecin;25-54;wartość liczbowa;2023;90.9;%;
+3262000;powiat Szczecin;55-64;wartość liczbowa;2023;64.1;%;
+3262000;powiat Szczecin;65-89;wartość liczbowa;2023;0;%;x
