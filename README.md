@@ -33,7 +33,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Dane geograficzne (pliki GeoJSON) użyte w aplikacji zostały pobrane z repozytorium GitHub dostępnego pod adresem:  
 [https://github.com/ppatrzyk/polska-geojson](https://github.com/ppatrzyk/polska-geojson).
 
-Te dane są udostępnione na licencji **MIT**, co oznacza, że mogą być używane, kopiowane, modyfikowane, łączone, publikowane, rozpowszechniane, sublicencjonowane i/lub sprzedawane, pod warunkiem, że w każdej kopii lub istotnej części danych zawarte będą informacje o prawach autorskich oraz licencji.
+Te dane są udostępnione na licencji MIT, co oznacza, że mogą być używane, kopiowane, modyfikowane, łączone, publikowane, rozpowszechniane, sublicencjonowane i/lub sprzedawane, pod warunkiem, że w każdej kopii lub istotnej części danych zawarte będą informacje o prawach autorskich oraz licencji.
+
 ---
 
 ## Specyfikacja wymagań
@@ -118,6 +119,7 @@ Jako użytkownik chcę zamknąć aplikację, aby zakończyć korzystanie z niej.
 - `zatr_wiek.csv`
 - `zatr_wyksztalcenie.csv`
 - `zatr_plec.csv`
+  
 ---
 
 ## Testy
